@@ -1,6 +1,6 @@
 
 ## SET UP INSTRUCTIONS
-- 👋 Hi, I’m liamsi inazzaoula
+- 👋 Hi, I’m liamsi
 ### Project demo video link
 Open ganache and select quick start ethereum.
 
